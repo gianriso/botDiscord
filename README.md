@@ -14,7 +14,7 @@ npm install discord.js, external-ip, os
 
 ## Comandos
 
-Comandos para ver los recursos del bot (en server), tiempo de uso y la ip del sservidor servidor  respectivamente: 
+Comandos para ver los recursos del bot (en server), tiempo de uso y la ip del  servidor  respectivamente: 
 
 ```
 !recursos
