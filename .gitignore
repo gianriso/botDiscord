@@ -9,7 +9,7 @@
 *.vi
 *~
 *.sass-cache
-
+*.json
 # OS or Editor folders
 .DS_Store
 .cache
